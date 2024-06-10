@@ -9,7 +9,6 @@ A clone of the Disney+ streaming platform built using React and Tailwind CSS.
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [API](#api)
 - [Contributing](#contributing)
 - [License](#license)
